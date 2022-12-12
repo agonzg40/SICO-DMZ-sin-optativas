@@ -14,10 +14,10 @@ https://drive.google.com/file/d/1YAymm8DtqmHxart4Fsw2CHC3Vpu7hd5x/view?usp=shari
 https://github.com/agonzg40/SICO-DMZ-sin-optativas
 
 **Video de la práctica con optativas:**
-
+https://drive.google.com/file/d/1XiDX8Bg-4sYHgDHWLB6e5qPvnzVhakT_/view?usp=sharing
 
 **Github de la práctica con optativas por si hay algún problema en la descarga de agora:**
-
+https://github.com/agonzg40/DMZ-SICO-con-optativas
 
 **Usuario utilizado en la práctica sin optativas:**
 
